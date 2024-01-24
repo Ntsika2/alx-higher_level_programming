@@ -10,4 +10,7 @@ matrix = [
 new_matrix = square_matrix_simple(matrix)
 print(new_matrix)
 print(matrix)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 40bdaaf254618943c5b79377d5d723dabff34dd4
